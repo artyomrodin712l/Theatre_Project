@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User access="Admin" id="0" login="admin" password="admin" />
+  <User access="Registered" id="1" login="Lesha666" password="123456" />
+  <User access="Registered" id="1" login="asd" password="asd" />
+  <User access="Registered" id="0" login="as" password="as" />
+  <User access="Registered" id="1" login="asds" password="asd" />
+</ArrayOfUser>

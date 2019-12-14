@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User access="Registered" id="1" login="vadim" password="vadim" email="zhmailik_vadim@belsap.com" />
+</ArrayOfUser>

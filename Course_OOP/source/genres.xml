@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfGenre xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Genre name="Комедия" />
+  <Genre name="Трагедия" />
+  <Genre name="Историческая драма" />
+  <Genre name="Ужасы" />
+  <Genre name="Трагикомедия" />
+</ArrayOfGenre>

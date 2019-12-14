@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order id="1" perfomance="Полночь" category="First" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="2" perfomance="Полночь" category="First" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="3" perfomance="Полночь" category="First" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="4" perfomance="Полночь" category="First" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="5" perfomance="Фунфурик" category="First" user="admin" date="2019-12-10T00:00:00+03:00" />
+  <Order id="6" perfomance="Фунфурик" category="Third" user="admin" date="2019-12-10T00:00:00+03:00" />
+  <Order id="7" perfomance="Макбет" category="Second" user="admin" date="2019-12-20T00:00:00" />
+  <Order id="8" perfomance="Фунфурик" category="First" user="admin" date="2019-12-10T00:00:00+03:00" />
+  <Order id="9" perfomance="Полночь" category="First" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="10" perfomance="Фунфурик" category="Second" user="admin" date="2019-12-10T00:00:00+03:00" />
+  <Order id="11" perfomance="Фунфурик" category="Third" user="admin" date="2019-12-10T00:00:00+03:00" />
+  <Order id="12" perfomance="Полночь" category="Second" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="13" perfomance="Полночь" category="Third" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="14" perfomance="Фунфурик" category="First" user="admin" date="2019-12-13T00:00:00" />
+  <Order id="15" perfomance="Фунфурик" category="Second" user="admin" date="2019-12-13T00:00:00" />
+  <Order id="16" perfomance="Фунфурик" category="Third" user="admin" date="2019-12-13T00:00:00" />
+  <Order id="17" perfomance="Полночь" category="First" user="admin" date="2019-12-11T00:00:00" />
+  <Order id="18" perfomance="Полночь" category="Second" user="admin" date="2019-12-11T00:00:00" />
+  <Order id="19" perfomance="Полночь" category="Third" user="admin" date="2019-12-11T00:00:00" />
+  <Order id="20" perfomance="Полночь" category="Third" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="21" perfomance="Полночь" category="First" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="22" perfomance="Полночь" category="First" user="admin" date="2019-12-12T00:00:00+03:00" />
+  <Order id="23" perfomance="Полночь" category="Second" user="as" date="2019-12-12T00:00:00+03:00" />
+  <Order id="24" perfomance="Полночь" category="Third" user="asds" date="2019-12-12T00:00:00+03:00" />
+</ArrayOfOrder>

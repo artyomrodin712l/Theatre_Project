@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ArrayOfTKT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TKT category="First" price="12" amount="2" />
+</ArrayOfTKT>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ArrayOfPerfomance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Perfomance name="asd" author="ad" genre="AD" path="..\..\image\course.jpg" />
+  <Perfomance name="asds" author="ad" genre="AD" path="..\..\image\course.jpg" />
+  <Perfomance name="asds" author="ad" genre="AD" path="..\..\image\theatrehd-makbet-414387.jpg" />
+</ArrayOfPerfomance>

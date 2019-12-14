@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ArrayOfPerfomance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Perfomance name="Полночь" author="Булгаков" genre="Комедия" path="C:\Users\artem\Desktop\theatrehd-makbet-414387.jpg" />
+  <Perfomance name="Фунфурик" author="Долгий" genre="Трагикомедия" path="C:\Users\artem\Desktop\zZFAwtevzc0.jpg" />
+</ArrayOfPerfomance>

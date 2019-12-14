@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order id="2" perfomance="asd" category="First" user="asd" date="2019-12-12T00:00:00+03:00" />
+  <Order id="7" perfomance="asds" category="First" user="admin" date="2019-12-12T00:00:00+03:00" />
+</ArrayOfOrder>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfPoster xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Poster name="Фунфурик" Time="13:00" date="2019-12-10T00:00:00+03:00" />
+  <Poster name="Полночь" Time="20:00" date="2019-12-12T00:00:00+03:00" />
+  <Poster name="Фунфурик" Time="18:00" date="2019-12-13T00:00:00" />
+  <Poster name="Полночь" Time="12:00" date="2019-12-11T00:00:00" />
+</ArrayOfPoster>
